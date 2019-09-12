@@ -300,6 +300,7 @@ header{
 
 .con-address-content{
 	margin: 0 auto;
+	width: 150px;
 }
 
 .con-sns{
@@ -308,6 +309,7 @@ header{
 }
 .con-sns-content{
 	margin: 0 auto;
+	width: 220px;
 }
 
 .con-address-title{
